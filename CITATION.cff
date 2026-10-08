@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+title: "UFD: The Base Motion Without Physics. A Corrective Edition"
+authors:
+  - family-names: "Valdepenas"
+    given-names: "Cristobal"
+    orcid: "https://orcid.org/0009-0001-4714-666X"
+doi: 10.5281/zenodo.23171454
+version: "2.0"
+date-released: "2026-10-05"
+repository-code: "https://github.com/cvaldepenas/ufd"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - stochastic differential equations
+  - Itô and Stratonovich calculus
+  - Fokker-Planck equation
+  - invariant measure
+  - gradient diffusion
+  - corrective edition
