@@ -84,9 +84,10 @@ ones.
 ## Relation to the other two repositories
 
 - **GTPA** ([github.com/cvaldepenas/gtpa](https://github.com/cvaldepenas/gtpa);
-  [10.5281/zenodo.23195763](https://doi.org/10.5281/zenodo.23195763)). UFD
-  is the base motion that GTPA builds on: GTPA models an agent that acts on
-  this motion, and GTPA v2.1 uses UFD v2.0 unchanged.
+  all versions [10.5281/zenodo.17636280](https://doi.org/10.5281/zenodo.17636280)).
+  UFD is the base motion that GTPA builds on: GTPA models an agent that acts
+  on this motion, and every GTPA v2 edition (v2.0 to v2.2.1 so far) uses UFD
+  v2.0 unchanged.
 - **MATH, Winding Metastability**
   ([github.com/cvaldepenas/winding-metastability](https://github.com/cvaldepenas/winding-metastability);
   [10.5281/zenodo.21776817](https://doi.org/10.5281/zenodo.21776817)). No
